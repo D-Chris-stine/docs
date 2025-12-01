@@ -66,6 +66,25 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Data Team",
+        "groups": [
+          {
+            "group": "Group 1",
+            "pages": [
+              "data-team/page-1",
+              "data-team/page-2"
+            ]
+          },
+          {
+            "group": "Group 2",
+            "pages": [
+              "data-team/page-3",
+              "data-team/page-4"
+            ]
+          }
+        ]
       }
     ],
     "global": {
