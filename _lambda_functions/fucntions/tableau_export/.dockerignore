@@ -1,0 +1,6 @@
+# keep images small
+__pycache__/
+*.pyc
+tests/
+event_samples/
+.venv/
